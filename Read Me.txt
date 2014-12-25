@@ -7,4 +7,4 @@ Thanks for using blogaddition.com
 
 upload
 
-from r2_index
+from r2 readme
