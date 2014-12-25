@@ -6,3 +6,5 @@
 Thanks for using blogaddition.com
 
 upload
+
+from r2_index
