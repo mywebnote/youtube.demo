@@ -4,3 +4,5 @@
 4. Now run index.php and enjoy the script
 
 Thanks for using blogaddition.com
+
+upload
